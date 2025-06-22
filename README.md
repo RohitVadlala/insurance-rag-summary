@@ -1,4 +1,4 @@
-🛡️ Insurance RAG Summary – AI-Powered Document Summarization App
+## 🛡️ Insurance RAG Summary – AI-Powered Document Summarization App
 
 This is an end-to-end Retrieval-Augmented Generation (RAG) system built for summarizing insurance documents using Amazon Bedrock (Claude Instant), FAISS vector search, and a Streamlit frontend. The application ingests PDF claim files, extracts and chunks the content, stores embeddings in FAISS, and allows users to ask contextual questions with instant answers.
 
