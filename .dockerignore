@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.ipynb
+*.csv
+*.xlsx
+*.pdf
+*.zip
+*.log
+*.tmp
+.env
+.venv/
+Dockerfile
+docker-compose.yml
+.git/
